@@ -8,7 +8,7 @@
 
 1. Create a new file **index.html** 
 
-1. Setting > Github Pages (we will find our published URL)
+1. Setting > Github Pages (you will find your published URL)
 
 1. [Link To Website](https://mensopheak.github.io/Hosting-On-Github/)
 
